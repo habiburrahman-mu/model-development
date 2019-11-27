@@ -1,0 +1,2 @@
+# model-development
+we will develop several models that will predict the price of the car using the variables or features. This is just an estimate but should give us an objective idea of how much the car should cost. Data Analytics, we often use Model Development to help us predict future observations from the data we have.  A Model will help us understand the exact relationship between different variables and how these variables are used to predict the result.
